@@ -210,7 +210,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header"><span>Nita & Soleh</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">19 September 2021</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/lk5bkhd1jfddajg9d1aropueu0%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #8d8780;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/lk5bkhd1jfddajg9d1aropueu0%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #C89F84;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
