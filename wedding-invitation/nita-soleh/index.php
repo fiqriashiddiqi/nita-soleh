@@ -346,7 +346,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 18 September 2021<br> 11.00 WIB s/d selesai <br> <strong>Kediaman Mempelai Wanita</strong><br> Dusun Cipariuk RT.01/RW0.1 Desa Neglasari Kecamatan Banjar,<br> Kota Banjar</p>
+							<p>Selasa, 19 Oktober 2021<br> 11.00 WIB s/d selesai <br> <strong>Kediaman Mempelai Wanita</strong><br> Dusun Cipariuk RT.01/RW0.1 Desa Neglasari Kecamatan Banjar,<br> Kota Banjar</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
